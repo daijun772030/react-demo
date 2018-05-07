@@ -1,0 +1,7 @@
+.myItem{
+    width: 50%;
+    border: 1px solid aquamarine;
+    background-color: blueviolet;
+    cursor: pointer;
+    margin: 30px auto;
+}
